@@ -11,13 +11,7 @@ Embark on a journey into the realm of digital entertainment with an interactive 
 <img src="https://user-images.githubusercontent.com/26748554/233724241-ccbd39a9-0aa9-480b-95e5-68912dafff7b.png" width ="500" height="500">
 </p>
 
-&nbsp;
 
-### Project veterans
-i) Anindya Biswas  
-ii) <a href="https://github.com/KoustubGRao">Koustub G Rao  </a>  
-iii) Raveena Kumari  
-iv) Naman Jain  
 
 &nbsp;
 
@@ -26,7 +20,4 @@ i) Verilog
 ii) FPGA (Field Programmable Gate Array)  
 iii) Digital ICs  
 
-##### Lets connect and have a Chat!💬
-<a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
-<a href="https://www.facebook.com/electronics.iitg/"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="78" height="50"></a>
-<a href="https://www.reddit.com/r/ElectronicsClubIITG/"><img src="https://www.pngkit.com/png/full/0-7757_reddit-logo-reddit-icon-png.png" width="45" height="45"></a>
+
